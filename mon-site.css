@@ -15,7 +15,7 @@ background-color: #e9EDF9;
     border-radius: 10px;
 }
  
- @media (max-width:200px){
+ @media (max-width:400px){
  .nav-center {
     display: flex;
     overflow: hidden;
@@ -136,4 +136,5 @@ border-radius: 20px;
 }.monsite{
     margin-right: 70%;
 }
+
       
