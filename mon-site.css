@@ -15,7 +15,7 @@ background-color: #e9EDF9;
     border-radius: 10px;
 }
  
- @media (max-width:400px){
+ @media (max-width:100px){
  .nav-center {
     display: flex;
     overflow: hidden;
@@ -138,3 +138,4 @@ border-radius: 20px;
 }
 
       
+
